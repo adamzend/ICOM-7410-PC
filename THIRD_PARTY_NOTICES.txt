@@ -1,0 +1,21 @@
+ICOM-7410-PC — third-party components
+
+The application's original source is licensed under GNU GPL version 3.
+Copyright (C) 2026 Adam Wojcieszonek. See LICENSE.
+
+Third-party components retain their own copyright and license notices:
+Python (PSF license), Tcl/Tk and tkinter, pyserial (BSD), NumPy (BSD),
+sounddevice (MIT), PortAudio (MIT-style), Pillow (HPND), and the
+PyInstaller bootloader (GPL with its distribution exception).
+Consult the installed distributions and their bundled license files for the
+exact terms. This summary does not replace those license texts.
+
+assets/buycoffee.png is the user-requested official BuyCoffee sharing button:
+https://buycoffee.to/static/img/share/share-button-primary--en.png
+It links to https://buycoffee.to/eksploracja. The graphic and service branding
+are not asserted to be authored by this project or relicensed under GPL.
+
+The Icom IC-7410 manual in the working documentation folder is a third-party
+reference, not application source. Link to the publisher's manual in any
+public repository; do not include it as GPL-licensed application content.
+https://icomuk.co.uk/files/icom/PDF/productManual/IC-7410_ENG.pdf

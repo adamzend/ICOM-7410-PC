@@ -1,0 +1,3 @@
+channel;name;rx_mhz;tx_mhz;mode;filter;split
+90;DEMO 20M;14.200000;14.200000;USB;2;0
+91;DEMO 40M;7.100000;7.100000;LSB;2;0

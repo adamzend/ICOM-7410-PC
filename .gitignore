@@ -1,0 +1,25 @@
+# Publish only the explicitly maintained application sources and release documentation.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/THIRD_PARTY_NOTICES.txt
+!/app.py
+!/app_info.py
+!/audio_engine.py
+!/radio.py
+!/settings_catalog.py
+!/i18n.py
+!/requirements.txt
+!/buduj.cmd
+!/uruchom.cmd
+!/przyklad-bazy.csv
+!/test_core.py
+!/test_memory_picker.py
+!/test_release.py
+!/assets/
+/assets/*
+!/assets/en.png
+!/assets/pl.png
+!/assets/buycoffee.png
